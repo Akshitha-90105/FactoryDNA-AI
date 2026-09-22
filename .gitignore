@@ -1,10 +1,22 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+
+# Virtual environment
 venv/
 .venv/
-__pycache__/
-*.pyc
+
+# Python cache
 .pytest_cache/
+
+# IDE
 .vscode/
 .idea/
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Logs
 *.log
